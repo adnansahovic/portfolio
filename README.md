@@ -1,2 +1,2 @@
-# portoflio
+# portfolio
 HTML, CSS- responsive portfolio
